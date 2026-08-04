@@ -27,12 +27,12 @@ Adds a sleek header bar to every code block with a language pill (click to pick 
 
 #### From GitHub (manual)
 
-1. Download `main.js`, `styles.css`, and `manifest.json` from the [latest release](https://github.com/perinchiang/obsidian-plugins-code-block-plus/releases).
+1. Download `main.js`, `styles.css`, and `manifest.json` from the [latest release](https://github.com/perinchiang/obsidian-smart-code-blocks/releases).
 2. Create a folder named `siyuan-code-blocks` inside your vault's `.obsidian/plugins/` directory.
 3. Copy the three files into that folder.
 4. Enable the plugin in Obsidian → Settings → Community plugins.
 
-#### From Obsidian Community Plugins (coming soon)
+#### From Obsidian Community Plugins
 
 Search for "Code Block Plus" in Obsidian's community plugin browser.
 
@@ -78,7 +78,7 @@ Search for "Code Block Plus" in Obsidian's community plugin browser.
 
 #### 从 GitHub 手动安装
 
-1. 从 [最新发布](https://github.com/perinchiang/obsidian-plugins-code-block-plus/releases) 下载 `main.js`、`styles.css` 和 `manifest.json`。
+1. 从 [最新发布](https://github.com/perinchiang/obsidian-smart-code-blocks/releases) 下载 `main.js`、`styles.css` 和 `manifest.json`。
 2. 在你的仓库 `.obsidian/plugins/` 目录下创建 `siyuan-code-blocks` 文件夹。
 3. 将三个文件复制到该文件夹中。
 4. 在 Obsidian → 设置 → 第三方插件 中启用本插件。

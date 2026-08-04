@@ -5,6 +5,6 @@
   "minAppVersion": "1.4.0",
   "description": "Enhanced code blocks with a language pill (click-to-pick dropdown), hover copy button, smart Ctrl/Cmd+A, Chinese punctuation trigger (···→code block), customizable appearance, and bilingual UI (zh/en).",
   "author": "perinchiang",
-  "authorUrl": "https://github.com/perinchiang/obsidian-plugins-code-block-plus",
+  "authorUrl": "https://github.com/perinchiang",
   "isDesktopOnly": false
 }
